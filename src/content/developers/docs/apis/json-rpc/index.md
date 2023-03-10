@@ -81,6 +81,10 @@ The following options are possible for the defaultBlock parameter:
 
 On this page we provide examples of how to use individual JSON_RPC API endpoints using the command line tool, [curl](https://curl.se). These individual endpoint examples are found below in the [Curl examples](#curl-examples) section. Further down the page, we also provide an [end-to-end example](#usage-example) for compiling and deploying a smart contract using a Geth node, the JSON_RPC API and curl.
 
+## Interactive examples {#interactive-examples}
+
+You can run examples in a private devnet from directly within your browser using the [JSON Interactive Documentation](https://ganache.dev). You can combine the examples below to practice workflows like getting accounts, publishing contracts, sending transactions, fetching data, etc, all from within your browser without having to download any other tools.
+
 ## Curl examples {#curl-examples}
 
 Examples of using the JSON_RPC API by making [curl](https://curl.se) requests to an Ethereum node are provided below. Each example
